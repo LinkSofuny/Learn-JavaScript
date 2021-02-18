@@ -1,5 +1,5 @@
 # Learn-JavaScript
-[![Learn-JavaScript](https://img.shields.io/badge/License-MIT-green)](https://github.com/LinkSofuny/Learn-JavaScript) 
+[![Learn-JavaScript](https://img.shields.io/badge/License-MIT-green)](https://github.com/LinkSofuny/Learn-JavaScript) <br>
 一份囊括所有JavaScript重难点的笔记
   绝大部分内容面向面试, 目前本笔记的内容侧重点是面试
 
