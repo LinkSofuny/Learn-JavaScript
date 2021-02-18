@@ -15,11 +15,11 @@
 2. [JavaScript对象数据类型]()
 3. [JavaScript编程技巧]()
 
-### 目录:
+## 目录:
 ![目录](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/30b1580e9c824b51ade46eaf3d1cd241~tplv-k3u1fbpfcp-watermark.image)
 
 
-#### 背景
+## 背景
 由于早期缺乏对JavaScript系统的学习, 导致了我在很多基础的东西了解的不够深, 这份笔记已经初步完成了对JavaScript整个体系中最重要的一部分的梳理, 很大程度地弥补了我早期由于学习习惯不好留下的问题.
 > 本笔记目前已经全部完成, 但是我需要整理成脑图,且为保证内容正确性和完整性, 我将会边检查边更新.
 
@@ -31,7 +31,7 @@
   3. 为日后JavaScript打下基础
   4. 将内容再整理,整理出技术博客
 
-#### 使用
+## 使用
 ```
 $ git clone HTTPS
 ```
