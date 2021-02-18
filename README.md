@@ -16,7 +16,7 @@
 3. [JavaScript编程技巧]()
 
 ### 目录:
-![脑图](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1cd629fc0e7047858dadc5ea1db3a057~tplv-k3u1fbpfcp-watermark.image)
+![目录](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/30b1580e9c824b51ade46eaf3d1cd241~tplv-k3u1fbpfcp-watermark.image)
 
 
 #### 背景
