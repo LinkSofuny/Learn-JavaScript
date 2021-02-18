@@ -1,6 +1,8 @@
 # Learn-JavaScript
 [![Learn-JavaScript](https://img.shields.io/badge/License-MIT-green)](https://github.com/LinkSofuny/Learn-JavaScript)  
-一份囊括所有JavaScript重难点的笔记  
+  
+一份囊括所有JavaScript重难点的笔记:  
+  
   绝大部分内容面向面试, 目前本笔记的内容侧重点是面试, 如在[JavaScript基本数据类型](https://github.com/LinkSofuny/Learn-JavaScript/blob/master/1.%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.pdf)中, 我的侧重点是数据类型转换和隐式转换,如果您对我的内容感到疑惑, 欢迎关注我的[掘金](https://juejin.cn/user/2005929448188567)/[CDSN](https://blog.csdn.net/m0_55382988?spm=1001.2101.3001.5343)账号, 我将会在文章中对笔记中的各个部分内容进行详解,以及脑图形式的解释.会比笔记更加形象生动
 
 本项目内容:
